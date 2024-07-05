@@ -6,7 +6,7 @@ export const personalData = {
   email: 'arijit.saha1373@gmail.com',
   phone: '+919330674735',
   address: '2082, Rajdanga Main Road, Kolkata-700107 India',
-  github: 'https://github.com/arijit203',
+  github: 'https://leetcode.com/u/arya994/',
   facebook: 'https://www.facebook.com/profile.php?id=100073635465691',
   linkedIn: 'https://www.linkedin.com/in/arijit-saha-717a93223/',
   twitter: 'https://twitter.com/ArijitSaha93376',
