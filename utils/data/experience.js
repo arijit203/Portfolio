@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "FULL STACK DEVELOPER",
-    company: "INGREENS Pvt Ltd",
+    company: "GreenThink Ventures Pvt. Ltd.",
     duration: "(July 2024 - August 2024)",
   },
   {
@@ -16,6 +16,6 @@ export const experiences = [
     title: "Self Employed",
     type: "FULL STACK DEVELOPER",
     company: "Code and build something new everyday.",
-    duration: "(July 2021 - August 2024)",
+    duration: "(July 2021 - Present)",
   },
 ];
