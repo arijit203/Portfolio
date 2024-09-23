@@ -16,6 +16,6 @@ export const experiences = [
     title: "Self Employed",
     type: "FULL STACK DEVELOPER",
     company: "Code and build something new everyday.",
-    duration: "(July 2021 - Present)",
+    duration: "(July 2021 - August 2024)",
   },
 ];
