@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "UNDERGRADUATE RESEARCH INTERN",
+    title: "UNDERGRADUATE SUMMER INTERN",
     company: "IIT KHARAGPUR ( Under Prof. Bhargab Maitra )",
     duration: "(June 2024 - July 2024)",
   },

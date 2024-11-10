@@ -7,12 +7,12 @@ export const personalData = {
   email: "arijit.saha1373@gmail.com",
   phone: "+919330674735",
   address: "2082, Rajdanga Main Road, Kolkata-700107 India",
-  github: "https://leetcode.com/u/arya994/",
+  github: "https://github.com/arijit203",
   facebook: "https://www.facebook.com/profile.php?id=100073635465691",
   linkedIn: "https://www.linkedin.com/in/arijit-saha-717a93223/",
   twitter: "https://twitter.com/ArijitSaha93376",
   stackOverflow: "https://stackoverflow.com/users/24807907/arijit-saha",
-  leetcode: "https://leetcode.com/u/arijit_203/",
+  leetcode: "https://leetcode.com/u/arya994/",
   resume:
     "https://drive.google.com/file/d/1HYLAxrXU4e74WRy1jgRlawkps7BCaHQT/view?usp=sharing",
 };
